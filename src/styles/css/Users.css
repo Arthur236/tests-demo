@@ -1,0 +1,22 @@
+.ui.secondary.pointing.menu .item.nav-link {
+  color: #000000;
+}
+
+.ui.secondary.pointing.menu .item.nav-link:hover {
+  color: #8CC43C;
+}
+
+.ui.secondary.pointing.menu .item.nav-link.active {
+  color: #F32D5B;
+  border-color: #F32D5B;
+}
+
+.ui.container > h1 {
+  color: #F32D5B;
+}
+
+.ui.segment.loader-segment {
+  height: 88vh;
+  border: 0;
+  box-shadow: none;
+}

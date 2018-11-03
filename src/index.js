@@ -4,7 +4,7 @@ import { Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { createBrowserHistory } from 'history';
 import routes from './routes';
-import './index.css';
+import './styles/css/index.css';
 import * as serviceWorker from './serviceWorker';
 
 import store from './store';

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
-import App from './App';
+import App from './components/App';
 import Users from './components/Users';
 
 export default (
